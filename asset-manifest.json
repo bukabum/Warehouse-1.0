@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Warehouse-1.0/static/css/main.388561f5.css",
-    "main.js": "/Warehouse-1.0/static/js/main.ea038f2e.js",
+    "main.css": "/Warehouse-1.0/static/css/main.c5957e9c.css",
+    "main.js": "/Warehouse-1.0/static/js/main.e64d5d85.js",
     "static/js/787.231a8822.chunk.js": "/Warehouse-1.0/static/js/787.231a8822.chunk.js",
     "static/media/logo.svg": "/Warehouse-1.0/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Warehouse-1.0/index.html",
-    "main.388561f5.css.map": "/Warehouse-1.0/static/css/main.388561f5.css.map",
-    "main.ea038f2e.js.map": "/Warehouse-1.0/static/js/main.ea038f2e.js.map",
+    "main.c5957e9c.css.map": "/Warehouse-1.0/static/css/main.c5957e9c.css.map",
+    "main.e64d5d85.js.map": "/Warehouse-1.0/static/js/main.e64d5d85.js.map",
     "787.231a8822.chunk.js.map": "/Warehouse-1.0/static/js/787.231a8822.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.388561f5.css",
-    "static/js/main.ea038f2e.js"
+    "static/css/main.c5957e9c.css",
+    "static/js/main.e64d5d85.js"
   ]
 }
